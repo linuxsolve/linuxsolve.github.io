@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Warren's Blog
+SEOTitle: 一个专注与 Linux 问题解决的技术类博客 | Warren's Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+email: linuxsolution0315@gmail.com
+description: "这里是 赵紫龙 的个人博客，与你一起发现更大的世界 | 专注解决 Linux 疑难杂症"
+keyword: "Linux, 技术博客, 博客, 个人网站, 人工智能, 运维, 互联网, Web, Python, 前端, 设计"
+url: "https://linuxsolve.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
